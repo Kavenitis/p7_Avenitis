@@ -10,7 +10,6 @@ import java.util.Date;
 
 public class CodeWriter {
 
-    // 翻译后汇编文件后缀名
     public static final String DEST_FIX = ".asm";
     public static final String SOURCE_FIX = ".vm";
     public static final String SP = "SP";
